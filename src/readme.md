@@ -1,0 +1,2 @@
+HTML5 (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. 
+Define el significado y la estructura del contenido web. Además de HTML5, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).
